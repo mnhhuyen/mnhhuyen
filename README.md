@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Minh Huyen!
 
-I'm a graduate from the **School of Information and Communications Technology, Hanoi University of Science and Technology**.
+I'm an assistant lecturer from the **School of Information and Communications Technology, Hanoi University of Science and Technology**.
 
 I'm passionate about **Biomedical Informatics** and have a keen interest in:
 - **Data Analysis & Engineering**
